@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .text-danger{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+<h1>Home</h1>
+<form method="post" action="/submit" th:object="${student}">
+    <table>
+        <tr>
+            <th>Nhap ID</th>
+            <td>
+                <input type="text" th:field="*{id}"/><br>
+                <p class="text-danger" th:if="${#fields.hasErrors('id')}" th:errors="*{id}"></p>
+            </td>
+        </tr>
+        <tr>
+            <th>Nhap Name</th>
+            <td>
+                <input type="text" th:field="*{name}"/><br>
+                <p class="text-danger" th:if="${#fields.hasErrors('name')}" th:errors="*{name}"></p>
+            </td>
+        </tr>
+        <tr>
+            <th>Nhap age</th>
+            <td>
+                <input type="text" th:field="*{age}"/><br>
+                <p class="text-danger" th:if="${#fields.hasErrors('age')}" th:errors="*{age}"></p>
+            </td>
+        </tr>
+        <tr>
+            <th>Nhap description</th>
+            <td>
+                <input type="text" th:field="*{description}"/><br>
+                <p class="text-danger" th:if="${#fields.hasErrors('description')}" th:errors="*{description}"></p>
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2"><input type="submit" th:value="ADD"></th>
+        </tr>
+    </table>
+</form>
+
+</body>
+</html>

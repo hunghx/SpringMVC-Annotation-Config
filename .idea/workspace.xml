@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c085d81-d55d-44bf-b762-4bb2a3b602de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/mvc/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/mvc/config/DispatcherServletConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/mvc/config/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ra/mvc/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/success.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/.idea/modules/SpringBoot_Security_JWT.main.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/SecurityConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/WebAppConfig.java" afterDir="false" />
@@ -129,6 +114,13 @@
       <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/user/list.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/user/success.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/user/user-menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/mvc/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/mvc/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/mvc/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/mvc/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/SpringBootSecurityJwtApplication.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/controller/TestController.class" beforeDir="false" />
@@ -244,13 +236,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -270,13 +264,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Gradle.Build MVCProjectAnnotation.executor": "Run",
     "Gradle.MVCProjectAnnotation [clean].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Tomcat Server.Tomcat 9.0.84.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "spring-validate",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/AD/Downloads/spring-webmvc-6.1.5.jar",
     "node.js.detected.package.eslint": "true",
@@ -428,7 +423,7 @@
       <updated>1712219543176</updated>
       <workItem from="1712219544494" duration="1487000" />
       <workItem from="1712221043616" duration="725000" />
-      <workItem from="1712221779411" duration="2465000" />
+      <workItem from="1712221779411" duration="6740000" />
     </task>
     <servers />
   </component>
