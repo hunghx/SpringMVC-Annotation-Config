@@ -5,177 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c085d81-d55d-44bf-b762-4bb2a3b602de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/mvc/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/mvc/config/DispatcherServletConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/mvc/config/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/.idea/modules/SpringBoot_Security_JWT.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/WebAppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/controller/CSVController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/controller/ContractController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/controller/DateTimeTestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/controller/Export.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/controller/ExportCustomers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/controller/MyErrorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/controller/PdfController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/controller/RegisterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/csv/CSVTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/entity/Contract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/entity/CurrentUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/entity/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/entity/Pdf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/entity/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/repository/ContractRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/repository/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/repository/PdfRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/repository/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/service/ContractService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/service/ContractServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/service/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/service/PdfService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/service/PdfServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/service/RoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/service/RoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/service/SpringDataUserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/utils/ReadDataUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/utils/UserPDFExporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/utils/WriteCsvToResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/view/AbstractCsvView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/view/AbstractPdfView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/view/CsvView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/view/ExcelView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/view/PdfView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/viewResolver/CsvViewResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/viewResolver/ExcelViewResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/viewResolver/PdfViewResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/403.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/admin/panel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/begin-date-after-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/begin-date-before-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/begin-date-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/contract-menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/customer-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/customer-user-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/end-date-after-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/end-date-before-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/end-date-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/name-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/show-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/show-one.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/status-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/user-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/value-ge-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/contract/value-le-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/csv/import.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/csv/show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/add-customer-based-on-another-one.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/city-address-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/city-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/customer-menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/email-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/first-name-last-name-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/first-name-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/last-name-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/name-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/phone-search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/show-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/show-one.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/customer/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/date/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/logout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/pdf/generator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/pdf/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/user/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/user/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/user/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/templates/user/user-menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/SpringBootSecurityJwtApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/controller/TestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/jwt/JwtAuthenticationFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/jwt/JwtTokenProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/model/entity/ERole.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/model/entity/Roles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/model/entity/Users.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/model/repository/RoleRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/model/repository/UserRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/model/service/RoleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/model/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/model/serviceImp/RoleServiceImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/model/serviceImp/UserServiceImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/payload/request/LoginRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/payload/request/SignupRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/payload/response/JwtResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/payload/response/MessageResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/security/CustomUserDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/security/CustomUserDetailsService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/classes/java/main/ra/security/WebSecurityConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/SpringBootSecurityJwtApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/CrmApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/controller/TestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/jwt/JwtAuthenticationFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/jwt/JwtTokenProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/model/entity/ERole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/model/entity/Roles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/model/entity/Users.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/model/repository/RoleRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/model/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/model/service/RoleService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/model/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/model/serviceImp/RoleServiceImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/model/serviceImp/UserServiceImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/payload/request/LoginRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/payload/request/SignupRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/payload/response/JwtResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/payload/response/MessageResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/security/CustomUserDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/security/CustomUserDetailsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/ra/security/WebSecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/test/java/ra/SpringBootSecurityJwtApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/test/java/crm/SpringBootSecurityJwtApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/.gradle/7.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/.gradle/7.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/.gradle/7.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/.gradle/7.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/.gradle/7.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/.gradle/7.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Security_JWT/src/main/java/crm/controller/CustomerController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,6 +87,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -258,6 +95,9 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -276,7 +116,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Tomcat Server.Tomcat 9.0.84.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "mvc-config",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/AD/Downloads/spring-webmvc-6.1.5.jar",
     "node.js.detected.package.eslint": "true",
